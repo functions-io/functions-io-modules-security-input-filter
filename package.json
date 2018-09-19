@@ -1,6 +1,6 @@
 {
   "name": "@functions-io-modules/security.input.filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "security input filter",
   "category": "test",
   "public": true,
