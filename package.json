@@ -1,6 +1,6 @@
 {
   "name": "@functions-io-modules/security.input.filter",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "security input filter",
   "category": "test",
   "public": true,
@@ -13,6 +13,5 @@
   "dependencies": {
     "ajv": "^6.5.3"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
